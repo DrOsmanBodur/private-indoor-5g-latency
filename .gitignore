@@ -1,0 +1,13 @@
+# outputs written by the MATLAB steps and figure scripts
+code/stage*_*.csv
+code/stage*_*.mat
+code/stage*_*.xlsx
+code/stage*_*.txt
+code/achieved_bandwidth_210.csv
+code/latency_with_achieved_bw_210.csv
+code/figures/*.png
+code/figures/*.pdf
+code/figures/*.svg
+code/figures/diagnostics/
+__pycache__/
+*.asv

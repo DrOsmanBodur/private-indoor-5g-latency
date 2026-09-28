@@ -1,0 +1,2 @@
+# Store every file byte-identical to the archived package (no line-ending conversion)
+* -text

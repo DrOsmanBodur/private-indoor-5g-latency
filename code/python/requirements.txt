@@ -1,0 +1,11 @@
+# Dependencies for the Python verification scripts.
+#
+# NumPy is the only third-party dependency; everything else comes from the
+# Python standard library. The scripts were developed and tested with
+# Python 3.14.6 under Windows 11, using both NumPy 2.4.6 and NumPy 2.5.2.
+# Results agree between the two NumPy versions to at least six significant
+# figures.
+#
+#   python -m pip install -r requirements.txt
+
+numpy>=2.4,<3
